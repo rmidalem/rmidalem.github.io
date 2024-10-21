@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rmidalem.github.io/rmidalem.txt.gz
+Sitemap: https://rmidalem.github.io/app/rmidalem.txt.gz
+Sitemap: https://rmidalem.github.io/assets/rmidalem.txt.gz
+Sitemap: https://rmidalem.github.io/css/rmidalem.txt.gz
+Sitemap: https://rmidalem.github.io/includes/rmidalem.txt.gz
+Sitemap: https://rmidalem.github.io/item/rmidalem.txt.gz
+Sitemap: https://rmidalem.github.io/src/rmidalem.txt.gz
